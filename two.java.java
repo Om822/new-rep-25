@@ -1,0 +1,4 @@
+public staic main ()
+{
+gdrgjdd
+}

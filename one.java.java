@@ -1,0 +1,6 @@
+public satic main ()
+{
+
+ggjhdubn
+}
+

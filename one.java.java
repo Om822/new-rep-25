@@ -1,6 +1,0 @@
-public satic main ()
-{
-
-ggjhdubn
-}
-
